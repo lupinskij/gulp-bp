@@ -10,7 +10,7 @@ GulpJS Boilerplate
 
 ## Initial Setup
 
-- `$ cd </path/to/this/folder>/gulp`
+- `$ cd </folder>/`
 - `$ bower install`
 - `$ npm install`
 
