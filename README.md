@@ -1,4 +1,4 @@
-gulp_bp
+Gulp Boilerplate
 =======
 
-GulpJS Boiler Plate
+GulpJS Boilerplate
