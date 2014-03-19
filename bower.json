@@ -1,0 +1,7 @@
+{
+  "name": "gulp",
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "normalize-css": "~3.0.0"
+  }
+}
